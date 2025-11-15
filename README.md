@@ -1,3 +1,4 @@
+<img src="https://thekauer.vercel.app/mariochill.webp" alt="totoro running" width="800" />
 ```
           _____                    _____                    _____            _____           _______
          /\    \                  /\    \                  /\    \          /\    \         /::\    \
@@ -21,8 +22,14 @@
         \::/    /                \::/    /                \::/    /        \::/    /         ~~
          \/____/                  \/____/                  \/____/          \/____/
 
-
-*Welcome to my Github profile*
 ```
 
+```
+
+# Welcome to my Github profile
+
 <img src="https://thekauer.vercel.app/totoro_running.webp" alt="totoro running" width="200" />
+If you want my precious dotfiles
+run `sudo curl -fsSL thekauer.vercel.app/install.sh | bash`
+<img src="https://thekauer.vercel.app/totoro_running.webp" alt="totoro running" width="200" />
+<img src="https://thekauer.vercel.app/plants.webp" alt="totoro running" width="200" />
