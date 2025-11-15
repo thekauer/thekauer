@@ -2,7 +2,7 @@
   <img src="https://thekauer.vercel.app/mariochill.webp" alt="mario chill" width="900" />
 </p>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center" width="200">
       <img src="https://thekauer.vercel.app/totoro_running.webp" alt="totoro running left" width="200" />
